@@ -1,0 +1,10 @@
+
+{
+    "name": "computer-sleep",
+    "description": "computer-sleep converted to a npm module",
+    "version": "0.0.1",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/jaruba/computer-sleep"
+    }
+}
