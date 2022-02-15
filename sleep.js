@@ -26,7 +26,7 @@
  */
 
 var path = require('path');
-var relbase = "./"+path.relative(path.dirname(require.main.filename), __dirname);
+var relbase = path.dirname(__dirname + "/src");
 
 module.exports = {
   prevent: function() {
